@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppExADT2_DaniSabbagh</string>
+    <string name="etNombre">Nombre</string>
+    <string name="etMunicipio">Municipio</string>
+    <string name="etDescripcion">Descripcion</string>
+    <string name="etFecha">Fecha</string>
+    <string name="etHora">Hora</string>
+</resources>
